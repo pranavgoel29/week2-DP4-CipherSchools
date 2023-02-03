@@ -1,0 +1,2 @@
+or (auto i : res)
+     
